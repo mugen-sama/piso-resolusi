@@ -3,4 +3,5 @@ PISO RESOLUSI
   -> learn & exercise building project
 - mematangkan konsep dan tim
 - mencari link
--memulai project
+- memulai project
+- mengembangkan lingkup
